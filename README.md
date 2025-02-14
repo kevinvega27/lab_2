@@ -1,2 +1,2 @@
 # lab_2
-https://github.com/kevinvega27/lab_2
+https://kevinvega27.github.io/lab_2/
